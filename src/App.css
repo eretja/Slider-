@@ -1,0 +1,14 @@
+img{
+height: 150px;
+width: 250px;
+}
+
+.App {
+  border: 2px solid gray;
+}
+button{
+color:blue;
+height: 20px;
+width: 50px;
+border: 2px solid blue;
+}
